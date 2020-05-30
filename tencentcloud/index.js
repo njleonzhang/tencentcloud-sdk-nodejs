@@ -54,6 +54,7 @@ module.exports = {
     msp: require("./msp"),
     nlp: require("./nlp"),
     ocr: require("./ocr"),
+    ft: require("./ft"),
     partners: require("./partners"),
     postgres: require("./postgres"),
     redis: require("./redis"),
